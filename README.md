@@ -71,11 +71,11 @@
 
 | 기능 | 모델 | 실행 방식 |
 |------|------|---------|
-| **음성 인식** | Faster Whisper | 로컬 모델 |
-| **배경음 분류** | LAION CLAP | 로컬 모델 |
-| **화면 텍스트 인식** | Gemma4:e2b / e4b | Ollama |
-| **장면 분석·요약** | Gemma4:e2b / e4b | Ollama |
-| **AI 채팅** | Gemma4:e2b / e4b | Ollama |
+| **음성 인식** | [Faster Whisper](https://github.com/openai/whisper) | 로컬 모델 |
+| **배경음 분류** | [LAION CLAP](https://github.com/LAION-AI/CLAP) | 로컬 모델 |
+| **화면 텍스트 인식** | [Gemma4:e2b / e4b](https://deepmind.google/models/gemma/gemma-4/) | [Ollama](https://ollama.com/) |
+| **장면 분석·요약** | [Gemma4:e2b / e4b](https://deepmind.google/models/gemma/gemma-4/) | [Ollama](https://ollama.com/) |
+| **AI 채팅** | [Gemma4:e2b / e4b](https://deepmind.google/models/gemma/gemma-4/) | [Ollama](https://ollama.com/) |
 
 Ollama 모델은 설정에서 원하는 모델로 교체할 수 있습니다.
 
