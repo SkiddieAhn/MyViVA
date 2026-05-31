@@ -1,0 +1,40 @@
+# LICENSE
+
+Copyright (c) 2026 SkiddieAhn. All Rights Reserved.
+
+본 소프트웨어(MyViVA)의 실행 파일, 소스 코드 및 관련 문서에 대한 모든 권리는 원저작자(SkiddieAhn)에게 있습니다. 본 소프트웨어를 다운로드하고 사용하는 것은 아래의 이용 약관에 동의함을 의미합니다.
+
+### 1. 사용 허가 및 범위
+- 사용자는 본 소프트웨어를 개인적이고 비상업적인 목적으로만 무료로 다운로드하고 사용할 수 있습니다.
+
+### 2. 이용 제한 및 금지 사항
+- 원저작자의 명시적인 서면 허가 없이 본 소프트웨어를 상업적으로 이용하는 행위를 금지합니다.
+- 본 소프트웨어를 무단으로 재배포하거나 다른 사이트에 업로드하는 행위를 금지합니다.
+- 본 소프트웨어의 실행 파일을 임의로 수정, 리버스 엔지니어링(역공학), 디컴파일 또는 분해하는 행위를 엄격히 금지합니다.
+
+### 3. 면책 조항 (Disclaimer)
+- 본 소프트웨어는 "있는 그대로(AS IS)" 제공되며, 제작자는 프로그램의 기능적 완전성, 오류 없는 작동 또는 특정 목적에의 적합성에 대해 어떠한 명시적·묵시적 보증도 하지 않습니다.
+- 사용자가 본 소프트웨어(특히 비디오 다운로드 기능 등)를 활용하여 다운로드한 영상 원본이나 AI 분석 결과물을 원작자의 동의 없이 공유, 재배포, 상업적 이용을 하여 발생하는 모든 저작권법 위반 및 법적 책임은 전적으로 사용자 본인에게 있습니다.
+- 제작자는 사용자의 본 소프트웨어 사용으로 인해 발생하는 직·간접적인 손해(데이터 손실, 시스템 오류 등)에 대해 어떠한 법적 책임도 지지 않습니다.
+
+---
+
+
+# LICENSE (English)
+
+Copyright (c) 2026 SkiddieAhn. All Rights Reserved.
+
+All rights to the executable files, source code, and related documentation of this software (MyViVA) belong to the original author (SkiddieAhn). By downloading and using this software, you agree to the following terms of use.
+
+### 1. License Grant and Scope
+- Users may download and use this software free of charge strictly for personal, non-commercial purposes.
+
+### 2. Restrictions and Prohibitions
+- Commercial use of this software without explicit written permission from the original author is prohibited.
+- Unauthorized redistribution or uploading of this software to other websites is prohibited.
+- Arbitrary modification, reverse engineering, decompiling, or disassembling of the executable files of this software is strictly prohibited.
+
+### 3. Disclaimer
+- This software is provided "AS IS", and the author makes no express or implied warranties regarding the functional completeness, error-free operation, or fitness for a particular purpose of the program.
+- All copyright violations and legal responsibilities arising from the user sharing, redistributing, or commercially using the original downloaded videos or AI analysis results (especially using the video download feature) without the original video creator's consent rest entirely with the user.
+- The author shall not be held legally responsible for any direct or indirect damages (data loss, system errors, etc.) resulting from the user's use of this software.
